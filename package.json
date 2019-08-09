@@ -1,7 +1,7 @@
 {
-	"name": "AdalabWebStarterKit",
+	"name": "TypeAhead",
 	"version": "2.0.2",
-	"description": "Adalab web starter kit",
+	"description": "Filter by cities or states",
 	"dependencies": {
 		"browser-sync": "^2.26.3",
 		"del": "^3.0.0",
@@ -27,9 +27,9 @@
 	},
 	"repository": {
 		"type": "git",
-		"url": "git+ssh://git@github.com:Adalab/Adalab-web-starter-kit.git"
+		"url": "git+ssh://git@github.com:inesppino/type-ahead.git"
 	},
 	"author": "Adalab",
 	"license": "MIT",
-	"homepage": "https://github.com/Adalab/Adalab-web-starter-kit"
+	"homepage": "https://github.com/inesppino/type-ahead"
 }
